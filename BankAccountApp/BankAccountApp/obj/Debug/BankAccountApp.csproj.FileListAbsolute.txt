@@ -1,0 +1,14 @@
+C:\Users\Vladislav Kavazov\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+C:\Users\Vladislav Kavazov\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+C:\Users\Vladislav Kavazov\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+C:\Users\Vladislav Kavazov\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav Kavazov\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+C:\Users\Vladislav Kavazov\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+C:\Users\vladislav.kavazov\Desktop\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+C:\Users\vladislav.kavazov\Desktop\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.CoreCompileInputs.cache
+C:\Users\vladislav.kavazov\Desktop\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+C:\Users\vladislav.kavazov\Desktop\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+C:\Users\vladislav.kavazov\Desktop\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+C:\Users\vladislav.kavazov\Desktop\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+C:\Users\vladislav.kavazov\Desktop\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
